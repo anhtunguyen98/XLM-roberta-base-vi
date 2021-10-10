@@ -5,7 +5,7 @@
 # <a name="introduction"></a> Smaller version XLM-roberta-base for Vietnamese and English
 
 
-The pre-train language model that was optimized follow by paper [Load What You Need](https://arxiv.org/abs/2010.05609)
+The pre-train language model that was reduced size [Load What You Need](https://arxiv.org/abs/2010.05609)
 
 # <a name="transformers"></a> Using pretrained in [`transformers`](https://github.com/huggingface/transformers)
 
