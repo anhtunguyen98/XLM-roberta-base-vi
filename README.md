@@ -31,6 +31,6 @@ input_ids = torch.tensor([tokenizer.encode(sentence)])
 
 with torch.no_grad():
     features = model(input_ids)
-print('feature')
+print(feature)
 
 ```
