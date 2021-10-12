@@ -15,7 +15,7 @@ Model | #params
 ---|---|
 `xlm-roberta-base` | 235M 
 `anhtunguyen98/xlm-base-vi-en` | 124M 
-`anhtunguyen98/xlm-base-vi` | 120M
+`anhtunguyen98/xlm-base-vi` | 117M
 
 ### Example usage
 
