@@ -13,7 +13,7 @@ The pre-train language model that was reduced size [Load What You Need](https://
  
 Model | #params 
 ---|---|
-`xlm-roberta-base` | 235M 
+`xlm-roberta-base` | 278M 
 `anhtunguyen98/xlm-base-vi-en` | 124M 
 `anhtunguyen98/xlm-base-vi` | 117M
 
